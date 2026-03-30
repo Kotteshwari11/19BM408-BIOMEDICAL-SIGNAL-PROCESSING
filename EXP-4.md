@@ -51,8 +51,10 @@ Twiddle factors are applied after subtraction
 6)Stop the program
 
 # MATLAB CODE :
+"https://github.com/user-attachments/assets/60af7707-d298-4d09-8f56-29927271e686"
 
 # OUTPUT GRAPH :
+![WhatsApp Image 2026-03-30 at 5 41 23 PM](https://github.com/user-attachments/assets/0816e5b0-7bd5-4b71-9ab4-ae74100b31e4)
 
 # RESULT :
 Thus, the Fast Fourier Transform of the given discrete-time signal was successfully computed using the Radix-2 Decimation-in-Frequency (DIF) FFT algorithm in MATLAB.
