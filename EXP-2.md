@@ -28,8 +28,10 @@ Where:
 	7)Stop the program
 
 # MATLAB CODE :
-
+"https://github.com/user-attachments/assets/f638bf29-b15e-4371-81ae-d4f9b3b3f796"
 # OUTPUT GRAPH :
+
+![WhatsApp Image 2026-03-30 at 5 40 22 PM](https://github.com/user-attachments/assets/a958cc7c-0b2f-493e-986e-b7108006cfc0)
 
 # Result :
 Thus, the Discrete Fourier Transform of the given discrete-time signal was successfully computed and plotted using MATLAB.
